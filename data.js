@@ -1,5 +1,6 @@
 const encounterData = {
     "routes": {
+        "Starter": { "gift": ["Bulbasaur", "Squirtle", "Charmander", "Chikorita", "Totodidle", "Cyndaquil", "Treeko", "Mudkip", "Torchic", "Turtwig", "Piplup", "Chimchar", "Snivy", "Oshawott", "Tepig", "Chespin", "Froakie", "Fennekin", "Rowlet", "{Popplio", "Litten", "Grookey", "Sobble", "Scorbunny", "Sprigatito", "Quaxly", "Fuecoco"] },
         "Route 101": { "grass": [] },
         "Route 102": { "grass": [], "surf": [], "fish_old": [], "fish_good": [], "fish_super": [] },
         "Route 103": { "grass": [], "surf": [], "fish_old": [], "fish_good": [], "fish_super": [] },
